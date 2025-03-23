@@ -1,0 +1,14 @@
+C:\UEA\estructura de datos CODIGO GITHUB\semana14\Arbol_Binario_caudal_rio\bin\Debug\net8.0\Arbol_Binario_caudal_rio.exe
+C:\UEA\estructura de datos CODIGO GITHUB\semana14\Arbol_Binario_caudal_rio\bin\Debug\net8.0\Arbol_Binario_caudal_rio.deps.json
+C:\UEA\estructura de datos CODIGO GITHUB\semana14\Arbol_Binario_caudal_rio\bin\Debug\net8.0\Arbol_Binario_caudal_rio.runtimeconfig.json
+C:\UEA\estructura de datos CODIGO GITHUB\semana14\Arbol_Binario_caudal_rio\bin\Debug\net8.0\Arbol_Binario_caudal_rio.dll
+C:\UEA\estructura de datos CODIGO GITHUB\semana14\Arbol_Binario_caudal_rio\bin\Debug\net8.0\Arbol_Binario_caudal_rio.pdb
+C:\UEA\estructura de datos CODIGO GITHUB\semana14\Arbol_Binario_caudal_rio\obj\Debug\net8.0\Arbol_Binario_caudal_rio.GeneratedMSBuildEditorConfig.editorconfig
+C:\UEA\estructura de datos CODIGO GITHUB\semana14\Arbol_Binario_caudal_rio\obj\Debug\net8.0\Arbol_Binario_caudal_rio.AssemblyInfoInputs.cache
+C:\UEA\estructura de datos CODIGO GITHUB\semana14\Arbol_Binario_caudal_rio\obj\Debug\net8.0\Arbol_Binario_caudal_rio.AssemblyInfo.cs
+C:\UEA\estructura de datos CODIGO GITHUB\semana14\Arbol_Binario_caudal_rio\obj\Debug\net8.0\Arbol_Binario_caudal_rio.csproj.CoreCompileInputs.cache
+C:\UEA\estructura de datos CODIGO GITHUB\semana14\Arbol_Binario_caudal_rio\obj\Debug\net8.0\Arbol_Binario_caudal_rio.dll
+C:\UEA\estructura de datos CODIGO GITHUB\semana14\Arbol_Binario_caudal_rio\obj\Debug\net8.0\refint\Arbol_Binario_caudal_rio.dll
+C:\UEA\estructura de datos CODIGO GITHUB\semana14\Arbol_Binario_caudal_rio\obj\Debug\net8.0\Arbol_Binario_caudal_rio.pdb
+C:\UEA\estructura de datos CODIGO GITHUB\semana14\Arbol_Binario_caudal_rio\obj\Debug\net8.0\Arbol_Binario_caudal_rio.genruntimeconfig.cache
+C:\UEA\estructura de datos CODIGO GITHUB\semana14\Arbol_Binario_caudal_rio\obj\Debug\net8.0\ref\Arbol_Binario_caudal_rio.dll

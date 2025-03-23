@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Arbol_Binario_caudal_rio/1.0.0": {
+        "runtime": {
+          "Arbol_Binario_caudal_rio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arbol_Binario_caudal_rio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
