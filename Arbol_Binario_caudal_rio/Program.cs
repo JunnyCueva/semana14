@@ -1,6 +1,4 @@
-﻿using System;
-
-class Nodo {
+﻿class Nodo {
     public int Edad;
     public Nodo Izquierda, Derecha;
 
